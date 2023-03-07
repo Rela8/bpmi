@@ -82,7 +82,7 @@ const items = [
   {
     href: '/members/news',
     icon: (<Info fontSize="small" />),
-    title: 'Nimn News'
+    title: 'News'
   },
   {
     href: '/members/all_members/',
